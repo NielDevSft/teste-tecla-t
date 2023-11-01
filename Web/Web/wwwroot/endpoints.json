@@ -1,0 +1,11 @@
+{
+  "prod": {
+
+  },
+  "hml": {
+
+  },
+  "dev": {
+      "materiais-construcao": "https://localhost:5001/material"
+  }
+}

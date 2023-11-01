@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Web</title>
+
+    <link href="~/lib/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/lib/css/mdb.css" rel="stylesheet" />
+    <link href="~/lib/css/style.css" rel="stylesheet" />
+    <link href="~/lib/css/modules/animations-extended.min.css" rel="stylesheet" />
+    <link href="~/lib/css/addons/datatables.min.css" rel="stylesheet" />
+    <link href="~/lib/css/addons/datatables-select.min.css" rel="stylesheet" />
+    <link href="~/lib/css/addons/directives.min.css" rel="stylesheet" />
+    <link href="~/lib/css/addons/flag.min.css" rel="stylesheet" />
+    <link href="~/lib/css/addons/jquery.zmd.hierarchical-display.min.css" rel="stylesheet" />
+    <link href="~/lib/css/addons/rating.min.css" rel="stylesheet" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container">
+                <a class="navbar-brand" asp-area="" asp-page="/Index">Materiais de construção</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2020 - Web - <a asp-area="" asp-page="/Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/js/jquery.js"></script>
+    <script src="~/lib/js/popper.js"></script>
+    <script src="~/lib/js/bootstrap.js"></script>
+    <script src="~/lib/js/addons/datatables.min.js"></script>
+    <script src="~/lib/js/addons/datatables-select.min.js"></script>
+    <script src="~/lib/js/modules/animations-extended.min.js"></script>
+    <script src="~/lib/js/mdb.js"></script>
+    <script src="~/js/site.js"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

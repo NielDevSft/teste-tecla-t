@@ -1,0 +1,233 @@
+{
+  "data": {
+    "Material": [
+      {
+        "Id": 1,
+        "IdMarca": 1,
+        "Nome": "Parafuso",
+        "Preco": "2,015.53"
+      },
+      {
+        "Id": 2,
+        "IdMarca": 2,
+        "Nome": "Forro PVC",
+        "Preco": "1,836.37"
+      },
+      {
+        "Id": 3,
+        "IdMarca": 3,
+        "Nome": "Bucha",
+        "Preco": "3,174.83"
+      },
+      {
+        "Id": 4,
+        "IdMarca": 5,
+        "Nome": "Alfinete",
+        "Preco": "2,296.86"
+      },
+      {
+        "Id": 5,
+        "IdMarca": 5,
+        "Nome": "Taxinha",
+        "Preco": "1,858.04"
+      },
+      {
+        "Id": 6,
+        "IdMarca": 4,
+        "Nome": "Furadeira",
+        "Preco": "2,279.14"
+      },
+      {
+        "Id": 7,
+        "IdMarca": 7,
+        "Nome": "Parafusadeira",
+        "Preco": "3,761.10"
+      },
+      {
+        "Id": 8,
+        "IdMarca": 8,
+        "Nome": "Serra mármore",
+        "Preco": "3,678.54"
+      },
+      {
+        "Id": 9,
+        "IdMarca": 4,
+        "Nome": "Martelo",
+        "Preco": "2,110.95"
+      },
+      {
+        "Id": 10,
+        "IdMarca": 5,
+        "Nome": "Serrote",
+        "Preco": "1,825.08"
+      },
+      {
+        "Id": 11,
+        "IdMarca": 7,
+        "Nome": "Alicate",
+        "Preco": "2,955.11"
+      },
+      {
+        "Id": 12,
+        "IdMarca": 7,
+        "Nome": "Polia",
+        "Preco": "2,356.40"
+      },
+      {
+        "Id": 13,
+        "IdMarca": 3,
+        "Nome": "Furadeira de bancada",
+        "Preco": "3,084.11"
+      },
+      {
+        "Id": 14,
+        "IdMarca": 7,
+        "Nome": "Furadeira de mão",
+        "Preco": "1,507.13"
+      },
+      {
+        "Id": 15,
+        "IdMarca": 6,
+        "Nome": "Carrinho de mão",
+        "Preco": "2,387.19"
+      },
+      {
+        "Id": 16,
+        "IdMarca": 4,
+        "Nome": "Trolha",
+        "Preco": "2,560.30"
+      },
+      {
+        "Id": 17,
+        "IdMarca": 8,
+        "Nome": "Broxa",
+        "Preco": "3,578.15"
+      },
+      {
+        "Id": 18,
+        "IdMarca": 3,
+        "Nome": "Esponja",
+        "Preco": "1,740.00"
+      },
+      {
+        "Id": 19,
+        "IdMarca": 1,
+        "Nome": "Esmeril",
+        "Preco": "2,145.42"
+      },
+      {
+        "Id": 20,
+        "IdMarca": 8,
+        "Nome": "Morça",
+        "Preco": "2,399.93"
+      },
+      {
+        "Id": 21,
+        "IdMarca": 4,
+        "Nome": "Compressor",
+        "Preco": "1,359.12"
+      },
+      {
+        "Id": 22,
+        "IdMarca": 8,
+        "Nome": "Lixadeira",
+        "Preco": "1,353.82"
+      },
+      {
+        "Id": 23,
+        "IdMarca": 3,
+        "Nome": "Motocerra",
+        "Preco": "3,975.19"
+      },
+      {
+        "Id": 24,
+        "IdMarca": 7,
+        "Nome": "Torno mercânico",
+        "Preco": "2,466.35"
+      },
+      {
+        "Id": 25,
+        "IdMarca": 6,
+        "Nome": "Micro-retifica",
+        "Preco": "1,880.73"
+      },
+      {
+        "Id": 26,
+        "IdMarca": 7,
+        "Nome": "Riscadeira",
+        "Preco": "2,380.82"
+      },
+      {
+        "Id": 27,
+        "IdMarca": 6,
+        "Nome": "Mangueira de nível",
+        "Preco": "1,200.89"
+      },
+      {
+        "Id": 28,
+        "IdMarca": 5,
+        "Nome": "Rebicador",
+        "Preco": "1,216.14"
+      },
+      {
+        "Id": 29,
+        "IdMarca": 6,
+        "Nome": "Marreta",
+        "Preco": "2,890.93"
+      },
+      {
+        "Id": 30,
+        "IdMarca": 4,
+        "Nome": "Formão",
+        "Preco": "3,006.12"
+      }
+    ],
+    "Marca": [
+      {
+        "Id": 1,
+        "Nome": "Firewax",
+        "CodigoMarca": "13c9e4bf-7ad4-4275-bc1e-c8e35483ff18"
+      },
+      {
+        "Id": 2,
+        "Nome": "Slambda",
+        "CodigoMarca": "280f8d28-bbd9-4c57-a8bc-b4bd9148ea46"
+      },
+      {
+        "Id": 3,
+        "Nome": "Organica",
+        "CodigoMarca": "270e21c4-2a91-43c0-afbc-5fd9f9ef9751"
+      },
+      {
+        "Id": 4,
+        "Nome": "Snowpoke",
+        "CodigoMarca": "afff2a60-8a54-4933-b861-01c276180da9"
+      },
+      {
+        "Id": 5,
+        "Nome": "Digial",
+        "CodigoMarca": "96af2dc0-23cd-43c7-9b02-121fb15561da"
+      },
+      {
+        "Id": 6,
+        "Nome": "Freakin",
+        "CodigoMarca": "ac82da62-36db-4bc7-89a0-2edf8420ce4d"
+      },
+      {
+        "Id": 7,
+        "Nome": "Fangold",
+        "CodigoMarca": "b17e9621-e081-47e4-8954-98c11feefe53"
+      },
+      {
+        "Id": 8,
+        "Nome": "Buzzmaker",
+        "CodigoMarca": "c5a3d781-0ec7-4cf1-bd8e-9d7dd0df11ad"
+      },
+      {
+        "Id": 9,
+        "Nome": "Utara",
+        "CodigoMarca": "81c113d1-a367-48bf-a2bf-2fdb76fb3236"
+      }
+    ]
+  }
+}
